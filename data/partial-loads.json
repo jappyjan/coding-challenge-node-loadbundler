@@ -1,0 +1,1315 @@
+[
+  {
+     "destination": "Landshut",
+     "pieces": 13,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T22:51:22.459Z",
+        "end": "2021-03-30T00:51:22.459Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:51:22.459Z",
+        "end": "2021-03-31T00:51:22.459Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 25,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T17:52:07.858Z",
+        "end": "2021-03-30T19:52:07.858Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T17:52:07.858Z",
+        "end": "2021-03-31T19:52:07.858Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 18,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T23:02:45.609Z",
+        "end": "2021-03-30T01:02:45.609Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T23:02:45.609Z",
+        "end": "2021-03-31T01:02:45.609Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 24,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T03:31:48.667Z",
+        "end": "2021-03-30T05:31:48.667Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T03:31:48.667Z",
+        "end": "2021-03-31T05:31:48.667Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 21,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T12:35:22.568Z",
+        "end": "2021-03-30T14:35:22.568Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T12:35:22.568Z",
+        "end": "2021-03-31T14:35:22.568Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 16,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T16:53:41.199Z",
+        "end": "2021-03-30T18:53:41.199Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T16:53:41.199Z",
+        "end": "2021-03-31T18:53:41.199Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 14,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T13:45:53.428Z",
+        "end": "2021-03-30T15:45:53.428Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:45:53.428Z",
+        "end": "2021-03-31T15:45:53.428Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 28,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T19:04:58.690Z",
+        "end": "2021-03-29T21:04:58.690Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T19:04:58.690Z",
+        "end": "2021-03-30T21:04:58.690Z"
+     }
+  },
+  {
+     "destination": "Augsburg",
+     "pieces": 20,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T09:56:45.209Z",
+        "end": "2021-03-30T11:56:45.209Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T09:56:45.209Z",
+        "end": "2021-03-31T11:56:45.209Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 4,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T13:20:57.987Z",
+        "end": "2021-03-30T15:20:57.987Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:20:57.987Z",
+        "end": "2021-03-31T15:20:57.987Z"
+     }
+  },
+  {
+     "destination": "Bielefeld",
+     "pieces": 6,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T08:24:27.747Z",
+        "end": "2021-03-30T10:24:27.747Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T08:24:27.747Z",
+        "end": "2021-03-31T10:24:27.747Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 27,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T18:08:39.647Z",
+        "end": "2021-03-29T20:08:39.647Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T18:08:39.647Z",
+        "end": "2021-03-30T20:08:39.647Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 16,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T00:02:30.819Z",
+        "end": "2021-03-30T02:02:30.819Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T00:02:30.819Z",
+        "end": "2021-03-31T02:02:30.819Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 3,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T21:46:06.074Z",
+        "end": "2021-03-29T23:46:06.074Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T21:46:06.074Z",
+        "end": "2021-03-30T23:46:06.074Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 19,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T10:21:40.772Z",
+        "end": "2021-03-30T12:21:40.772Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T10:21:40.772Z",
+        "end": "2021-03-31T12:21:40.772Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 9,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T13:07:49.016Z",
+        "end": "2021-03-30T15:07:49.016Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:07:49.016Z",
+        "end": "2021-03-31T15:07:49.016Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 28,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T04:00:48.447Z",
+        "end": "2021-03-30T06:00:48.447Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T04:00:48.447Z",
+        "end": "2021-03-31T06:00:48.447Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 22,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T12:30:07.134Z",
+        "end": "2021-03-30T14:30:07.134Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T12:30:07.134Z",
+        "end": "2021-03-31T14:30:07.134Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 20,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T22:58:30.180Z",
+        "end": "2021-03-30T00:58:30.180Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:58:30.180Z",
+        "end": "2021-03-31T00:58:30.180Z"
+     }
+  },
+  {
+     "destination": "Neumuenster",
+     "pieces": 5,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T09:58:23.540Z",
+        "end": "2021-03-30T11:58:23.540Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T09:58:23.540Z",
+        "end": "2021-03-31T11:58:23.540Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 20,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T08:11:03.498Z",
+        "end": "2021-03-30T10:11:03.498Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T08:11:03.498Z",
+        "end": "2021-03-31T10:11:03.498Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 24,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T21:23:02.218Z",
+        "end": "2021-03-29T23:23:02.218Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T21:23:02.218Z",
+        "end": "2021-03-30T23:23:02.218Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 11,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T19:39:47.383Z",
+        "end": "2021-03-29T21:39:47.383Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T19:39:47.383Z",
+        "end": "2021-03-30T21:39:47.383Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 5,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T15:35:17.259Z",
+        "end": "2021-03-30T17:35:17.259Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T15:35:17.259Z",
+        "end": "2021-03-31T17:35:17.259Z"
+     }
+  },
+  {
+     "destination": "Augsburg",
+     "pieces": 23,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T07:02:16.459Z",
+        "end": "2021-03-30T09:02:16.459Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T07:02:16.459Z",
+        "end": "2021-03-31T09:02:16.459Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 28,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T11:33:48.038Z",
+        "end": "2021-03-30T13:33:48.038Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:33:48.038Z",
+        "end": "2021-03-31T13:33:48.038Z"
+     }
+  },
+  {
+     "destination": "Hamburg",
+     "pieces": 10,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T10:23:29.470Z",
+        "end": "2021-03-30T12:23:29.470Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T10:23:29.470Z",
+        "end": "2021-03-31T12:23:29.470Z"
+     }
+  },
+  {
+     "destination": "Landshut",
+     "pieces": 21,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T07:42:10.963Z",
+        "end": "2021-03-30T09:42:10.963Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T07:42:10.963Z",
+        "end": "2021-03-31T09:42:10.963Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 18,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T22:45:35.712Z",
+        "end": "2021-03-30T00:45:35.712Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:45:35.712Z",
+        "end": "2021-03-31T00:45:35.712Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 12,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T03:57:06.205Z",
+        "end": "2021-03-30T05:57:06.205Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T03:57:06.205Z",
+        "end": "2021-03-31T05:57:06.205Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 9,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T00:24:40.957Z",
+        "end": "2021-03-30T02:24:40.957Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T00:24:40.957Z",
+        "end": "2021-03-31T02:24:40.957Z"
+     }
+  },
+  {
+     "destination": "Hamburg",
+     "pieces": 5,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T13:54:36.325Z",
+        "end": "2021-03-30T15:54:36.325Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:54:36.325Z",
+        "end": "2021-03-31T15:54:36.325Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 29,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T18:27:21.374Z",
+        "end": "2021-03-29T20:27:21.374Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T18:27:21.374Z",
+        "end": "2021-03-30T20:27:21.374Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 7,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T19:06:09.899Z",
+        "end": "2021-03-29T21:06:09.899Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T19:06:09.899Z",
+        "end": "2021-03-30T21:06:09.899Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 8,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T11:19:52.428Z",
+        "end": "2021-03-30T13:19:52.428Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:19:52.428Z",
+        "end": "2021-03-31T13:19:52.428Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 1,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T12:11:36.071Z",
+        "end": "2021-03-30T14:11:36.071Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T12:11:36.071Z",
+        "end": "2021-03-31T14:11:36.071Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 27,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T22:28:13.757Z",
+        "end": "2021-03-30T00:28:13.757Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:28:13.757Z",
+        "end": "2021-03-31T00:28:13.757Z"
+     }
+  },
+  {
+     "destination": "Augsburg",
+     "pieces": 8,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T11:08:49.621Z",
+        "end": "2021-03-30T13:08:49.621Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:08:49.621Z",
+        "end": "2021-03-31T13:08:49.621Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 4,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T14:19:55.683Z",
+        "end": "2021-03-30T16:19:55.683Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T14:19:55.683Z",
+        "end": "2021-03-31T16:19:55.683Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 9,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T23:07:47.246Z",
+        "end": "2021-03-30T01:07:47.246Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T23:07:47.246Z",
+        "end": "2021-03-31T01:07:47.246Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 6,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T23:12:41.798Z",
+        "end": "2021-03-30T01:12:41.798Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T23:12:41.798Z",
+        "end": "2021-03-31T01:12:41.798Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 24,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T03:26:46.742Z",
+        "end": "2021-03-30T05:26:46.742Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T03:26:46.742Z",
+        "end": "2021-03-31T05:26:46.742Z"
+     }
+  },
+  {
+     "destination": "Kiel",
+     "pieces": 3,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T04:45:10.533Z",
+        "end": "2021-03-30T06:45:10.533Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T04:45:10.533Z",
+        "end": "2021-03-31T06:45:10.533Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 7,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T11:51:00.957Z",
+        "end": "2021-03-30T13:51:00.957Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:51:00.957Z",
+        "end": "2021-03-31T13:51:00.957Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 6,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T22:24:07.893Z",
+        "end": "2021-03-30T00:24:07.893Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:24:07.893Z",
+        "end": "2021-03-31T00:24:07.893Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 13,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T02:37:55.334Z",
+        "end": "2021-03-30T04:37:55.334Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T02:37:55.334Z",
+        "end": "2021-03-31T04:37:55.334Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 19,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T09:16:20.610Z",
+        "end": "2021-03-30T11:16:20.610Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T09:16:20.610Z",
+        "end": "2021-03-31T11:16:20.610Z"
+     }
+  },
+  {
+     "destination": "Hamburg",
+     "pieces": 13,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T10:17:48.409Z",
+        "end": "2021-03-30T12:17:48.409Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T10:17:48.409Z",
+        "end": "2021-03-31T12:17:48.409Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 1,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T16:12:49.212Z",
+        "end": "2021-03-30T18:12:49.212Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T16:12:49.212Z",
+        "end": "2021-03-31T18:12:49.212Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 26,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T02:17:08.784Z",
+        "end": "2021-03-30T04:17:08.784Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T02:17:08.784Z",
+        "end": "2021-03-31T04:17:08.784Z"
+     }
+  },
+  {
+     "destination": "Hamburg",
+     "pieces": 15,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T23:29:10.688Z",
+        "end": "2021-03-30T01:29:10.688Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T23:29:10.688Z",
+        "end": "2021-03-31T01:29:10.688Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 25,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T22:39:14.594Z",
+        "end": "2021-03-30T00:39:14.594Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:39:14.594Z",
+        "end": "2021-03-31T00:39:14.594Z"
+     }
+  },
+  {
+     "destination": "Bremen",
+     "pieces": 29,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T22:06:54.134Z",
+        "end": "2021-03-30T00:06:54.134Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:06:54.134Z",
+        "end": "2021-03-31T00:06:54.134Z"
+     }
+  },
+  {
+     "destination": "Neumuenster",
+     "pieces": 29,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T06:49:56.612Z",
+        "end": "2021-03-30T08:49:56.612Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T06:49:56.612Z",
+        "end": "2021-03-31T08:49:56.612Z"
+     }
+  },
+  {
+     "destination": "Neumuenster",
+     "pieces": 24,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T12:54:20.201Z",
+        "end": "2021-03-30T14:54:20.201Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T12:54:20.201Z",
+        "end": "2021-03-31T14:54:20.201Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 20,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T01:30:29.359Z",
+        "end": "2021-03-30T03:30:29.359Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T01:30:29.359Z",
+        "end": "2021-03-31T03:30:29.359Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 18,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T02:29:01.823Z",
+        "end": "2021-03-30T04:29:01.823Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T02:29:01.823Z",
+        "end": "2021-03-31T04:29:01.823Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 17,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T09:53:45.137Z",
+        "end": "2021-03-30T11:53:45.137Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T09:53:45.137Z",
+        "end": "2021-03-31T11:53:45.137Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 5,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T08:01:18.407Z",
+        "end": "2021-03-30T10:01:18.407Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T08:01:18.407Z",
+        "end": "2021-03-31T10:01:18.407Z"
+     }
+  },
+  {
+     "destination": "Landshut",
+     "pieces": 14,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T12:54:05.455Z",
+        "end": "2021-03-30T14:54:05.455Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T12:54:05.455Z",
+        "end": "2021-03-31T14:54:05.455Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 10,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T22:04:03.803Z",
+        "end": "2021-03-30T00:04:03.803Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:04:03.803Z",
+        "end": "2021-03-31T00:04:03.803Z"
+     }
+  },
+  {
+     "destination": "Hamburg",
+     "pieces": 5,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T14:40:31.864Z",
+        "end": "2021-03-30T16:40:31.864Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T14:40:31.864Z",
+        "end": "2021-03-31T16:40:31.864Z"
+     }
+  },
+  {
+     "destination": "Augsburg",
+     "pieces": 15,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T22:21:09.354Z",
+        "end": "2021-03-30T00:21:09.354Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:21:09.354Z",
+        "end": "2021-03-31T00:21:09.354Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 8,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T22:53:45.012Z",
+        "end": "2021-03-30T00:53:45.012Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T22:53:45.012Z",
+        "end": "2021-03-31T00:53:45.012Z"
+     }
+  },
+  {
+     "destination": "Kiel",
+     "pieces": 17,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T03:49:19.416Z",
+        "end": "2021-03-30T05:49:19.416Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T03:49:19.416Z",
+        "end": "2021-03-31T05:49:19.416Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 1,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T00:06:02.726Z",
+        "end": "2021-03-30T02:06:02.726Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T00:06:02.726Z",
+        "end": "2021-03-31T02:06:02.726Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 29,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T16:02:04.540Z",
+        "end": "2021-03-30T18:02:04.540Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T16:02:04.540Z",
+        "end": "2021-03-31T18:02:04.540Z"
+     }
+  },
+  {
+     "destination": "Kiel",
+     "pieces": 22,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T11:50:16.903Z",
+        "end": "2021-03-30T13:50:16.903Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:50:16.903Z",
+        "end": "2021-03-31T13:50:16.903Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 19,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T10:52:09.983Z",
+        "end": "2021-03-30T12:52:09.983Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T10:52:09.983Z",
+        "end": "2021-03-31T12:52:09.983Z"
+     }
+  },
+  {
+     "destination": "Neumuenster",
+     "pieces": 6,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T18:19:24.242Z",
+        "end": "2021-03-29T20:19:24.242Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T18:19:24.242Z",
+        "end": "2021-03-30T20:19:24.242Z"
+     }
+  },
+  {
+     "destination": "Hannover",
+     "pieces": 8,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T21:08:58.672Z",
+        "end": "2021-03-29T23:08:58.672Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T21:08:58.672Z",
+        "end": "2021-03-30T23:08:58.672Z"
+     }
+  },
+  {
+     "destination": "Wedel",
+     "pieces": 16,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T20:42:51.320Z",
+        "end": "2021-03-29T22:42:51.320Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T20:42:51.320Z",
+        "end": "2021-03-30T22:42:51.320Z"
+     }
+  },
+  {
+     "destination": "Hamburg",
+     "pieces": 13,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T10:12:17.277Z",
+        "end": "2021-03-30T12:12:17.277Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T10:12:17.277Z",
+        "end": "2021-03-31T12:12:17.277Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 19,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T01:44:08.171Z",
+        "end": "2021-03-30T03:44:08.171Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T01:44:08.171Z",
+        "end": "2021-03-31T03:44:08.171Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 17,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T12:32:56.793Z",
+        "end": "2021-03-30T14:32:56.793Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T12:32:56.793Z",
+        "end": "2021-03-31T14:32:56.793Z"
+     }
+  },
+  {
+     "destination": "Bielefeld",
+     "pieces": 9,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T18:03:05.994Z",
+        "end": "2021-03-30T20:03:05.994Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T18:03:05.994Z",
+        "end": "2021-03-31T20:03:05.994Z"
+     }
+  },
+  {
+     "destination": "Heidelberg",
+     "pieces": 18,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T17:11:27.002Z",
+        "end": "2021-03-30T19:11:27.002Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T17:11:27.002Z",
+        "end": "2021-03-31T19:11:27.002Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 24,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T13:31:29.987Z",
+        "end": "2021-03-30T15:31:29.987Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:31:29.987Z",
+        "end": "2021-03-31T15:31:29.987Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 23,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T10:03:56.605Z",
+        "end": "2021-03-30T12:03:56.605Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T10:03:56.605Z",
+        "end": "2021-03-31T12:03:56.605Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 16,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T09:09:42.959Z",
+        "end": "2021-03-30T11:09:42.959Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T09:09:42.959Z",
+        "end": "2021-03-31T11:09:42.959Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 16,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T08:47:56.440Z",
+        "end": "2021-03-30T10:47:56.440Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T08:47:56.440Z",
+        "end": "2021-03-31T10:47:56.440Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 28,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T13:09:15.519Z",
+        "end": "2021-03-30T15:09:15.519Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:09:15.519Z",
+        "end": "2021-03-31T15:09:15.519Z"
+     }
+  },
+  {
+     "destination": "Bielefeld",
+     "pieces": 7,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T07:18:23.029Z",
+        "end": "2021-03-30T09:18:23.029Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T07:18:23.029Z",
+        "end": "2021-03-31T09:18:23.029Z"
+     }
+  },
+  {
+     "destination": "Landshut",
+     "pieces": 10,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T18:21:20.589Z",
+        "end": "2021-03-29T20:21:20.589Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T18:21:20.589Z",
+        "end": "2021-03-30T20:21:20.589Z"
+     }
+  },
+  {
+     "destination": "Augsburg",
+     "pieces": 24,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T11:14:35.067Z",
+        "end": "2021-03-30T13:14:35.067Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:14:35.067Z",
+        "end": "2021-03-31T13:14:35.067Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 24,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T20:52:10.040Z",
+        "end": "2021-03-29T22:52:10.040Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T20:52:10.040Z",
+        "end": "2021-03-30T22:52:10.040Z"
+     }
+  },
+  {
+     "destination": "Köln",
+     "pieces": 17,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T23:23:40.861Z",
+        "end": "2021-03-30T01:23:40.861Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T23:23:40.861Z",
+        "end": "2021-03-31T01:23:40.861Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 3,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T13:14:37.786Z",
+        "end": "2021-03-30T15:14:37.786Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:14:37.786Z",
+        "end": "2021-03-31T15:14:37.786Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 24,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T05:49:57.121Z",
+        "end": "2021-03-30T07:49:57.121Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T05:49:57.121Z",
+        "end": "2021-03-31T07:49:57.121Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 17,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T13:48:06.422Z",
+        "end": "2021-03-30T15:48:06.422Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T13:48:06.422Z",
+        "end": "2021-03-31T15:48:06.422Z"
+     }
+  },
+  {
+     "destination": "Luebeck",
+     "pieces": 11,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T11:13:21.424Z",
+        "end": "2021-03-30T13:13:21.424Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:13:21.424Z",
+        "end": "2021-03-31T13:13:21.424Z"
+     }
+  },
+  {
+     "destination": "München",
+     "pieces": 28,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T01:17:25.676Z",
+        "end": "2021-03-30T03:17:25.676Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T01:17:25.676Z",
+        "end": "2021-03-31T03:17:25.676Z"
+     }
+  },
+  {
+     "destination": "Bielefeld",
+     "pieces": 4,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T11:11:25.439Z",
+        "end": "2021-03-30T13:11:25.439Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T11:11:25.439Z",
+        "end": "2021-03-31T13:11:25.439Z"
+     }
+  },
+  {
+     "destination": "Neumuenster",
+     "pieces": 25,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T09:02:56.296Z",
+        "end": "2021-03-30T11:02:56.296Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T09:02:56.296Z",
+        "end": "2021-03-31T11:02:56.296Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 9,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T04:43:51.429Z",
+        "end": "2021-03-30T06:43:51.429Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T04:43:51.429Z",
+        "end": "2021-03-31T06:43:51.429Z"
+     }
+  },
+  {
+     "destination": "Konstanz",
+     "pieces": 8,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T15:45:16.260Z",
+        "end": "2021-03-30T17:45:16.260Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T15:45:16.260Z",
+        "end": "2021-03-31T17:45:16.260Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 6,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T01:11:55.226Z",
+        "end": "2021-03-30T03:11:55.226Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T01:11:55.226Z",
+        "end": "2021-03-31T03:11:55.226Z"
+     }
+  },
+  {
+     "destination": "Bielefeld",
+     "pieces": 27,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-30T06:39:53.950Z",
+        "end": "2021-03-30T08:39:53.950Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T06:39:53.950Z",
+        "end": "2021-03-31T08:39:53.950Z"
+     }
+  },
+  {
+     "destination": "Kiel",
+     "pieces": 20,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-29T21:34:38.153Z",
+        "end": "2021-03-29T23:34:38.153Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T21:34:38.153Z",
+        "end": "2021-03-30T23:34:38.153Z"
+     }
+  },
+  {
+     "destination": "Augsburg",
+     "pieces": 20,
+     "splitable": false,
+     "loading_window": {
+        "start": "2021-03-29T20:45:14.670Z",
+        "end": "2021-03-29T22:45:14.670Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-30T20:45:14.670Z",
+        "end": "2021-03-30T22:45:14.670Z"
+     }
+  },
+  {
+     "destination": "Frankfurt",
+     "pieces": 4,
+     "splitable": true,
+     "loading_window": {
+        "start": "2021-03-30T03:04:34.076Z",
+        "end": "2021-03-30T05:04:34.076Z"
+     },
+     "unloading_window": {
+        "start": "2021-03-31T03:04:34.076Z",
+        "end": "2021-03-31T05:04:34.076Z"
+     }
+  }
+]
