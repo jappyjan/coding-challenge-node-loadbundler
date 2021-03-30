@@ -1,45 +1,18 @@
+import { promises as fs } from 'fs';
+import { join } from 'path';
+import Bundler from './bundler';
+import { Load } from './interfaces';
 
 
+(async function run() {
+   const bundleableDestinations = JSON.parse((await fs.readFile(join(__dirname, '..', 'data', 'bundleable-destinations.json'))).toString()) as Array<string[]>;
+   const loads = JSON.parse((await fs.readFile(join(__dirname, '..', 'data', 'partial-loads.json'))).toString()) as Load[];
 
-console.log("Trucks:");
-// output list of trucks and their stops, as full as possible (max 34 palettes each), lowest number of stops possible.
+   const bundler = new Bundler();
+   const bundles = bundler
+      .setBundleableLocations(bundleableDestinations)
+      .setLoads(loads)
+      .bundle(60);
 
-// example output could be (for 1 truck):
-
-/*
-   {
-      "total_pieces": 31,
-      "partials": [
-         {
-            "destination": "Luebeck",
-            "pieces": 26,
-            "splitable": true,
-            "loading_window": {
-               "start": "2021-03-29T22:06:12.974Z",
-               "end": "2021-03-30T00:06:12.974Z"
-            },
-            "unloading_window": {
-               "start": "2021-03-30T22:06:12.974Z",
-               "end": "2021-03-31T00:06:12.974Z"
-            }
-         },
-         {
-            "destination": "Wedel",
-            "pieces": 5,
-            "splitable": true,
-            "loading_window": {
-               "start": "2021-03-30T18:03:41.575Z",
-               "end": "2021-03-30T20:03:41.575Z"
-            },
-            "unloading_window": {
-               "start": "2021-03-31T18:03:41.575Z",
-               "end": "2021-03-31T20:03:41.575Z"
-            }
-         }
-      ],
-      "destinations": [
-         "Luebeck",
-         "Wedel"
-      ]
-   }
-*/
+   console.log("Trucks:", JSON.stringify(bundles, null, 4));
+})();

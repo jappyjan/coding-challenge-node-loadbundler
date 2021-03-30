@@ -2,8 +2,10 @@
     "compilerOptions": {
       "outDir": "./build",
       "allowJs": true,
-      "target": "es6",
-      "module": "commonjs"
+      "target": "ESNEXT",
+      "module": "commonjs",
+      "declaration": true,
+      "sourceMap": true
     },
     "include": ["./src/**/*"]
   }
