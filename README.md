@@ -90,5 +90,5 @@ Feel free to use whatever output format you want.  This here is just an example 
 
 - feel free to start with ignoring the time
 - feel free to imageine the time it takes between any drop-off location is 0 (or a standard value you define)
-
+- feel free to start without splitting individual loads
 
